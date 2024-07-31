@@ -6,8 +6,6 @@
 #if guess right print "You Won!"
 #python L2_Challenge2_Task1.py
 
-### refactoring - https://www.freecodecamp.org/news/best-practices-for-refactoring-code/
-
 def secret_num():
     import random
     for i in range(1):
