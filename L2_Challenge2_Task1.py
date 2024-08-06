@@ -35,5 +35,3 @@ def game():
 print(game())
 
 print(game())
-
-hello
